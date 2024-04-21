@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Gerona, Reven A.
+- 👀 I’m interested in Programming.
+- 🌱 I’m currently learning Java,C#,Python,Javascript,Css,html,and Sql.
+- 💞️ I’m looking to collaborate on Programming topics
+- 📫 How to reach me by my fb Gerona Reven A, or my number 09551744988(tm)
